@@ -1,1 +1,1 @@
-# MiniMRP
+![System Schema](./docs/mrp-schema-v1.png)
