@@ -1,0 +1,6 @@
+@MRP_HostAddress = http://localhost:5278
+
+GET {{MRP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

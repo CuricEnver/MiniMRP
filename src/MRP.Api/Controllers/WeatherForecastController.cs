@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MiniMRP.Controllers
+namespace MRP.Controllers
 {
     [ApiController]
     [Route("[controller]")]

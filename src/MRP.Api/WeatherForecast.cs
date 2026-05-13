@@ -1,4 +1,4 @@
-namespace MiniMRP
+namespace MRP
 {
     public class WeatherForecast
     {
